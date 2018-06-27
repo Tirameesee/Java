@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=dblCircleArea
+comment1.target=double\ getCircleArea(double)
+comment2.params=dblborderlength
+comment2.target=double\ getBorderLength(double)
+comment3.params=dblradiusArea
+comment3.target=double\ setRadius(double)
+numComments=4

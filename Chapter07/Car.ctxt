@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=dblstart
+comment1.target=void\ start(double)
+comment2.params=dblstop
+comment2.target=void\ stop(double)
+comment3.params=dblstart
+comment3.target=void\ upSpeed(double)
+comment4.params=dbldownSpeed
+comment4.target=void\ downSpeed(double)
+numComments=5

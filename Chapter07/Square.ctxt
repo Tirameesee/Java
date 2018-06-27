@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=dblsquareArea
+comment1.target=double\ getsquareArea(double)
+comment2.params=dblborderlength
+comment2.target=double\ getBorderLength(double)
+comment3.params=dblsquareArea
+comment3.target=double\ setwidth(double)
+comment4.params=dblborderlength
+comment4.target=double\ setlength(double)
+numComments=5

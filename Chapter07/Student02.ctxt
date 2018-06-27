@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Student02
+comment1.params=Grade\ ScoreTotal
+comment1.target=java.lang.String\ getGrade(java.lang.String,\ int)
+comment2.params=ScoreTotal
+comment2.target=int\ getScoreTotal(int)
+comment3.params=Name
+comment3.target=java.lang.String\ setName(java.lang.String)
+comment4.params=Id
+comment4.target=int\ setId(int)
+comment5.params=ScoreHomwork
+comment5.target=int\ setScoreHomwork(int)
+comment6.params=ScoreTest
+comment6.target=int\ setScoreTest(int)
+comment7.params=ScoreMidterm
+comment7.target=int\ setScoreMidterm(int)
+comment8.params=ScoreFinal
+comment8.target=int\ setScoreFinal(int)
+numComments=9

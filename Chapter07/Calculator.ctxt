@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=dblsquareArea
+comment1.target=void\ squareArea(double)
+comment2.params=dbltriangleArea
+comment2.target=void\ triangleArea(double)
+comment3.params=dblcircleArea
+comment3.target=void\ circleArea(double)
+numComments=4
