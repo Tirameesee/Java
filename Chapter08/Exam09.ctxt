@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Exam09
+comment1.params=dblstart
+comment1.target=double\ start(double)
+comment2.params=dblstop
+comment2.target=double\ stop(double)
+comment3.params=dblupSpeed
+comment3.target=double\ upSpeed(double)
+comment4.params=dbldownSpeed
+comment4.target=double\ downSpeed(double)
+comment5.params=dblsetGear_D
+comment5.target=double\ setGear_D(double)
+comment6.params=dblsetGear_R
+comment6.target=double\ setGear_R(double)
+comment7.params=dblsetGear_P
+comment7.target=double\ setGear_P(double)
+comment8.params=dblsetGear_N
+comment8.target=double\ setGear_N(double)
+numComments=9

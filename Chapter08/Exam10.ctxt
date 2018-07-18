@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exam10
+comment1.params=dblt
+comment1.target=double\ getPhysic(double)
+comment2.params=flts1\ flts2\ fltt1\ fltt2
+comment2.target=float\ getPhysic(float,\ float,\ float,\ float)
+comment3.params=intu\ inta\ intt
+comment3.target=int\ getPhysic(int,\ int,\ int)
+numComments=4
